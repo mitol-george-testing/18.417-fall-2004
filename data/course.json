@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fd0ac665-75fa-39e1-bee2-748c789267ff"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Computational Molecular Biology",
+  "course_description": "This course introduces the basic computational methods used to understand the cell on a molecular level. It covers subjects such as the sequence alignment algorithms: dynamic programming, hashing, suffix trees, and Gibbs sampling. Furthermore, it focuses on computational approaches to: genetic and physical mapping; genome sequencing, assembly, and annotation; RNA expression and secondary structure; protein structure and folding; and molecular interactions and dynamics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.417",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
